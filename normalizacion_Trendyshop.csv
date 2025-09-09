@@ -1,0 +1,219 @@
+id_producto;nombre_producto;categoria_producto;marca_producto;precio_unitario;;;id_cliente;nombre_cliente;edad_cliente;genero_cliente;ciudad_cliente
+1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;;;101;Ana García;25;Femenino;Madrid
+1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;;;102;Juan Pérez;30;Masculino;Barcelona
+1003;Base Líquida HD;Pele;RadiantSkin;1875;;;103;María López;28;Femenino;Valencia
+1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;;;104;Carlos Ruiz;35;Masculino;Sevilla
+1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;;;105;Laura Gómez;22;Femenino;Madrid
+1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;;;106;David Jiménez;41;Masculino;Bilbao
+1007;Gloss Labial Transparente;Lábios;ShineLips;1000;;;107;Sofía Castro;29;Femenino;Valencia
+1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;;;108;Pablo Torres;33;Masculino;Barcelona
+1009;Crema Hidratante con Color;Pele;GlowUp;2200;;;109;Elena Blanco;27;Femenino;Sevilla
+1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;;;110;Javier Morales;38;Masculino;Madrid
+1011;Corrector de Ojeras;Pele;RadiantSkin;1400;;;111;Isabel Rivas;24;Femenino;Bilbao
+1012;Iluminador Líquido;Pele;GlowUp;1950;;;112;Ricardo Soto;36;Masculino;Valencia
+;;;;;;;113;Carmen Vidal;31;Femenino;Sevilla
+;;;;;;;114;Felipe Castro;26;Masculino;Barcelona
+;;;;;;;115;Patricia Soler;29;Femenino;Madrid
+;;;;;;;116;Gonzalo Díaz;45;Masculino;Bilbao
+;;;;;;;117;Eva Navarro;21;Femenino;Valencia
+id_transaccion;id_cliente;id_producto;cantidad;fecha_venta;;;118;Rubén Martín;32;Masculino;Sevilla
+1;101;1001;1;10/03/2024;;;119;Andrea Rojas;23;Femenino;Madrid
+2;102;1002;1;11/03/2024;;;120;Jesús Sánchez;37;Masculino;Barcelona
+3;103;1003;2;11/03/2024;;;121;Marta Gil;26;Femenino;Bilbao
+4;104;1004;1;12/03/2024;;;122;Jorge Morales;39;Masculino;Valencia
+5;105;1005;3;12/03/2024;;;123;Paola Ruiz;28;Femenino;Sevilla
+6;106;1001;1;13/03/2024;;;124;Antonio Pérez;40;Masculino;Madrid
+7;107;1006;1;13/03/2024;;;125;Sandra Otero;30;Femenino;Barcelona
+8;108;1007;2;14/03/2024;;;126;Luisa Castro;27;Femenino;Valencia
+9;109;1008;1;14/03/2024;;;127;Pedro Vidal;34;Masculino;Sevilla
+10;110;1009;1;15/03/2024;;;128;Ana Torres;29;Femenino;Madrid
+11;101;1006;1;15/03/2024;;;129;Diego Sanz;25;Masculino;Bilbao
+12;111;1004;1;16/03/2024;;;130;Natalia Gómez;31;Femenino;Valencia
+13;112;1010;2;16/03/2024;;;131;Manuel Flores;38;Masculino;Sevilla
+14;113;1011;1;17/03/2024;;;132;Alicia Castro;22;Femenino;Madrid
+15;114;1007;1;17/03/2024;;;133;Sergio Ramos;43;Masculino;Barcelona
+16;115;1002;1;18/03/2024;;;134;Lorena Díaz;28;Femenino;Bilbao
+17;116;1012;1;18/03/2024;;;135;Ramón Soto;30;Masculino;Valencia
+18;117;1005;1;19/03/2024;;;136;Beatriz Ruiz;26;Femenino;Sevilla
+19;118;1003;1;19/03/2024;;;137;Daniel Morales;35;Masculino;Madrid
+20;119;1008;2;20/03/2024;;;138;Claudia Vidal;29;Femenino;Barcelona
+21;120;1009;1;20/03/2024;;;139;Jaime Castro;40;Masculino;Bilbao
+22;101;1011;1;21/03/2024;;;140;Vanesa Gómez;27;Femenino;Valencia
+23;121;1001;2;21/03/2024;;;141;Fabián Navarro;33;Masculino;Sevilla
+24;122;1006;1;22/03/2024;;;142;Mónica Torres;24;Femenino;Madrid
+25;123;1002;1;22/03/2024;;;143;Raúl Soler;31;Masculino;Barcelona
+26;124;1003;1;23/03/2024;;;144;Silvia Morales;39;Femenino;Bilbao
+27;125;1004;1;23/03/2024;;;145;Óscar Díaz;26;Masculino;Valencia
+28;126;1005;1;24/03/2024;;;146;Clara Romero;28;Femenino;Sevilla
+29;127;1007;1;24/03/2024;;;147;Roberto Vidal;36;Masculino;Madrid
+30;128;1008;1;25/03/2024;;;148;Teresa Jiménez;23;Femenino;Barcelona
+31;102;1009;1;25/03/2024;;;149;Esteban Soto;41;Masculino;Bilbao
+32;129;1010;1;26/03/2024;;;150;Lucía Martín;32;Femenino;Valencia
+33;130;1011;1;26/03/2024;;;151;José Ruiz;37;Masculino;Sevilla
+34;131;1012;1;27/03/2024;;;152;Maribel Sánchez;29;Femenino;Madrid
+35;132;1001;3;27/03/2024;;;153;Fernando Gil;25;Masculino;Barcelona
+36;133;1002;1;28/03/2024;;;154;Diana Morales;34;Femenino;Bilbao
+37;134;1003;1;28/03/2024;;;155;Carlos Giraldo;42;Masculino;Valencia
+38;135;1004;1;29/03/2024;;;156;Rosa Varela;27;Femenino;Sevilla
+39;136;1005;2;29/03/2024;;;157;Luis González;30;Masculino;Madrid
+40;137;1006;1;30/03/2024;;;158;Mireia Ortiz;26;Femenino;Barcelona
+41;138;1007;1;30/03/2024;;;159;Daniel Prieto;33;Masculino;Bilbao
+42;139;1008;1;31/03/2024;;;160;Sara Mendoza;24;Femenino;Valencia
+43;140;1009;1;31/03/2024;;;161;Héctor Ruiz;35;Masculino;Sevilla
+44;141;1010;3;1/04/2024;;;162;Victoria Flores;29;Femenino;Madrid
+45;142;1011;1;1/04/2024;;;163;Andrés Díaz;40;Masculino;Barcelona
+46;143;1012;1;2/04/2024;;;164;Nuria Torres;22;Femenino;Bilbao
+47;144;1001;1;2/04/2024;;;165;Iván Soto;28;Masculino;Valencia
+48;145;1002;1;3/04/2024;;;166;Pilar García;31;Femenino;Sevilla
+49;146;1003;1;3/04/2024;;;167;Alejandro Morales;36;Masculino;Madrid
+50;147;1004;1;4/04/2024;;;168;Julia Ramos;27;Femenino;Barcelona
+51;148;1005;1;4/04/2024;;;169;Alberto Vidal;34;Masculino;Bilbao
+52;149;1006;2;5/04/2024;;;170;Rocío Pérez;25;Femenino;Valencia
+53;150;1007;1;5/04/2024;;;171;José María García;42;Masculino;Sevilla
+54;151;1008;1;6/04/2024;;;172;Nerea Sánchez;23;Femenino;Madrid
+55;152;1009;1;6/04/2024;;;173;Ramón López;38;Masculino;Barcelona
+56;153;1010;1;7/04/2024;;;174;Laura Martín;30;Femenino;Bilbao
+57;154;1011;2;7/04/2024;;;175;Manuel Gil;35;Masculino;Valencia
+58;155;1012;1;8/04/2024;;;176;Cristina Ruiz;28;Femenino;Sevilla
+59;156;1001;1;8/04/2024;;;177;Jorge Pérez;31;Masculino;Madrid
+60;157;1002;1;9/04/2024;;;178;Marina Soto;24;Femenino;Barcelona
+61;158;1003;1;9/04/2024;;;179;Arturo Vidal;39;Masculino;Bilbao
+62;159;1004;1;10/04/2024;;;180;Sofía Morales;26;Femenino;Valencia
+63;160;1005;1;10/04/2024;;;181;Héctor Gómez;32;Masculino;Sevilla
+64;161;1006;1;11/04/2024;;;182;Esther Díaz;29;Femenino;Madrid
+65;162;1007;2;11/04/2024;;;183;Óscar Sánchez;37;Masculino;Barcelona
+66;163;1008;1;12/04/2024;;;184;Marta Torres;25;Femenino;Bilbao
+67;164;1009;1;12/04/2024;;;185;Daniel Ruiz;41;Masculino;Valencia
+68;165;1010;2;13/04/2024;;;186;Andrea Soler;22;Femenino;Sevilla
+69;166;1011;1;13/04/2024;;;187;Julio Castro;30;Masculino;Madrid
+70;167;1012;1;14/04/2024;;;188;Pilar Moreno;34;Femenino;Barcelona
+71;101;1002;1;14/04/2024;;;189;Alejandro Santos;27;Masculino;Bilbao
+72;168;1001;1;15/04/2024;;;190;Noelia Vidal;36;Femenino;Valencia
+73;169;1003;1;15/04/2024;;;191;Javier Suárez;29;Masculino;Sevilla
+74;170;1004;1;16/04/2024;;;192;Laura Otero;25;Femenino;Madrid
+75;171;1005;1;16/04/2024;;;193;Raúl Giraldo;33;Masculino;Barcelona
+76;172;1006;1;17/04/2024;;;194;Sara Morales;28;Femenino;Bilbao
+77;173;1007;1;17/04/2024;;;195;Pablo Prieto;40;Masculino;Valencia
+78;174;1008;1;18/04/2024;;;196;Carla Navarro;21;Femenino;Sevilla
+79;175;1009;1;18/04/2024;;;197;Víctor Sánchez;35;Masculino;Barcelona
+80;176;1010;1;19/04/2024;;;198;Elisa Ramos;26;Femenino;Bilbao
+81;177;1011;1;19/04/2024;;;199;Fernando Vidal;32;Masculino;Valencia
+82;178;1012;1;20/04/2024;;;200;Gabriela Pérez;28;Femenino;Sevilla
+83;179;1001;2;20/04/2024;;;;;;;
+84;180;1002;1;21/04/2024;;;;;;;
+85;181;1003;1;21/04/2024;;;;;;;
+86;182;1004;1;22/04/2024;;;;;;;
+87;183;1005;1;22/04/2024;;;;;;;
+88;184;1006;1;23/04/2024;;;;;;;
+89;185;1007;1;23/04/2024;;;;;;;
+90;186;1008;1;24/04/2024;;;;;;;
+91;187;1009;1;24/04/2024;;;;;;;
+92;188;1010;1;25/04/2024;;;;;;;
+93;189;1011;1;25/04/2024;;;;;;;
+94;190;1012;1;26/04/2024;;;;;;;
+95;191;1001;1;26/04/2024;;;;;;;
+96;192;1002;1;27/04/2024;;;;;;;
+97;193;1003;1;27/04/2024;;;;;;;
+98;194;1004;1;28/04/2024;;;;;;;
+99;195;1005;1;28/04/2024;;;;;;;
+100;196;1006;1;29/04/2024;;;;;;;
+101;101;1007;1;29/04/2024;;;;;;;
+102;197;1008;1;30/04/2024;;;;;;;
+103;198;1009;1;30/04/2024;;;;;;;
+104;199;1010;1;1/05/2024;;;;;;;
+105;200;1011;1;1/05/2024;;;;;;;
+106;102;1012;1;2/05/2024;;;;;;;
+107;103;1001;1;2/05/2024;;;;;;;
+108;104;1002;1;3/05/2024;;;;;;;
+109;105;1003;1;3/05/2024;;;;;;;
+110;106;1004;1;4/05/2024;;;;;;;
+111;107;1005;1;4/05/2024;;;;;;;
+112;108;1006;1;5/05/2024;;;;;;;
+113;109;1007;1;5/05/2024;;;;;;;
+114;110;1008;1;6/05/2024;;;;;;;
+115;111;1009;1;6/05/2024;;;;;;;
+116;112;1010;1;7/05/2024;;;;;;;
+117;113;1011;1;7/05/2024;;;;;;;
+118;114;1012;1;8/05/2024;;;;;;;
+119;115;1001;1;8/05/2024;;;;;;;
+120;116;1002;1;9/05/2024;;;;;;;
+121;117;1003;1;9/05/2024;;;;;;;
+122;118;1004;1;10/05/2024;;;;;;;
+123;119;1005;1;10/05/2024;;;;;;;
+124;120;1006;1;11/05/2024;;;;;;;
+125;121;1007;1;11/05/2024;;;;;;;
+126;122;1008;1;12/05/2024;;;;;;;
+127;123;1009;1;12/05/2024;;;;;;;
+128;124;1010;1;13/05/2024;;;;;;;
+129;125;1011;1;13/05/2024;;;;;;;
+130;126;1012;1;14/05/2024;;;;;;;
+131;127;1001;1;14/05/2024;;;;;;;
+132;128;1002;1;15/05/2024;;;;;;;
+133;129;1003;1;15/05/2024;;;;;;;
+134;130;1004;1;16/05/2024;;;;;;;
+135;131;1005;1;16/05/2024;;;;;;;
+136;132;1006;1;17/05/2024;;;;;;;
+137;133;1007;1;17/05/2024;;;;;;;
+138;134;1008;1;18/05/2024;;;;;;;
+139;135;1009;1;18/05/2024;;;;;;;
+140;136;1010;1;19/05/2024;;;;;;;
+141;137;1011;1;19/05/2024;;;;;;;
+142;138;1012;1;20/05/2024;;;;;;;
+143;139;1001;1;20/05/2024;;;;;;;
+144;140;1002;1;21/05/2024;;;;;;;
+145;141;1003;1;21/05/2024;;;;;;;
+146;142;1004;1;22/05/2024;;;;;;;
+147;143;1005;1;22/05/2024;;;;;;;
+148;144;1006;1;23/05/2024;;;;;;;
+149;145;1007;1;23/05/2024;;;;;;;
+150;146;1008;1;24/05/2024;;;;;;;
+151;147;1009;1;24/05/2024;;;;;;;
+152;148;1010;1;25/05/2024;;;;;;;
+153;149;1011;1;25/05/2024;;;;;;;
+154;150;1012;1;26/05/2024;;;;;;;
+155;151;1001;1;26/05/2024;;;;;;;
+156;152;1002;1;27/05/2024;;;;;;;
+157;153;1003;1;27/05/2024;;;;;;;
+158;154;1004;1;28/05/2024;;;;;;;
+159;155;1005;1;28/05/2024;;;;;;;
+160;156;1006;1;29/05/2024;;;;;;;
+161;157;1007;1;29/05/2024;;;;;;;
+162;158;1008;1;30/05/2024;;;;;;;
+163;159;1009;1;30/05/2024;;;;;;;
+164;160;1010;1;31/05/2024;;;;;;;
+165;161;1011;1;31/05/2024;;;;;;;
+166;162;1012;1;1/06/2024;;;;;;;
+167;163;1001;1;1/06/2024;;;;;;;
+168;164;1002;1;2/06/2024;;;;;;;
+169;165;1003;1;2/06/2024;;;;;;;
+170;166;1004;1;3/06/2024;;;;;;;
+171;167;1005;1;3/06/2024;;;;;;;
+172;168;1006;1;4/06/2024;;;;;;;
+173;169;1007;1;4/06/2024;;;;;;;
+174;170;1008;1;5/06/2024;;;;;;;
+175;171;1009;1;5/06/2024;;;;;;;
+176;172;1010;1;6/06/2024;;;;;;;
+177;173;1011;1;6/06/2024;;;;;;;
+178;174;1012;1;7/06/2024;;;;;;;
+179;175;1001;1;7/06/2024;;;;;;;
+180;176;1002;1;8/06/2024;;;;;;;
+181;177;1003;1;8/06/2024;;;;;;;
+182;178;1004;1;9/06/2024;;;;;;;
+183;179;1005;1;9/06/2024;;;;;;;
+184;180;1006;1;10/06/2024;;;;;;;
+185;181;1007;1;10/06/2024;;;;;;;
+186;182;1008;1;11/06/2024;;;;;;;
+187;183;1009;1;11/06/2024;;;;;;;
+188;184;1010;1;12/06/2024;;;;;;;
+189;185;1011;1;12/06/2024;;;;;;;
+190;186;1012;1;13/06/2024;;;;;;;
+191;187;1001;1;13/06/2024;;;;;;;
+192;188;1002;1;14/06/2024;;;;;;;
+193;189;1003;1;14/06/2024;;;;;;;
+194;190;1004;1;15/06/2024;;;;;;;
+195;191;1005;1;15/06/2024;;;;;;;
+196;192;1006;1;16/06/2024;;;;;;;
+197;193;1007;1;16/06/2024;;;;;;;
+198;194;1008;1;17/06/2024;;;;;;;
+199;195;1009;1;17/06/2024;;;;;;;
+200;196;1010;1;18/06/2024;;;;;;;

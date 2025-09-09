@@ -1,0 +1,201 @@
+id_transaccion;id_cliente;nombre_cliente;edad_cliente;genero_cliente;ciudad_cliente;id_producto;nombre_producto;categoria_producto;marca_producto;precio_unitario;cantidad;fecha_venta
+1;101;Ana García;25;Femenino;Madrid;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;10/03/2024
+2;102;Juan Pérez;30;Masculino;Barcelona;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;11/03/2024
+3;103;María López;28;Femenino;Valencia;1003;Base Líquida HD;Pele;RadiantSkin;1875;2;11/03/2024
+4;104;Carlos Ruiz;35;Masculino;Sevilla;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;12/03/2024
+5;105;Laura Gómez;22;Femenino;Madrid;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;3;12/03/2024
+6;106;David Jiménez;41;Masculino;Bilbao;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;13/03/2024
+7;107;Sofía Castro;29;Femenino;Valencia;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;13/03/2024
+8;108;Pablo Torres;33;Masculino;Barcelona;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;2;14/03/2024
+9;109;Elena Blanco;27;Femenino;Sevilla;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;14/03/2024
+10;110;Javier Morales;38;Masculino;Madrid;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;15/03/2024
+11;101;Ana García;25;Femenino;Madrid;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;15/03/2024
+12;111;Isabel Rivas;24;Femenino;Bilbao;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;16/03/2024
+13;112;Ricardo Soto;36;Masculino;Valencia;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;2;16/03/2024
+14;113;Carmen Vidal;31;Femenino;Sevilla;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;17/03/2024
+15;114;Felipe Castro;26;Masculino;Barcelona;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;17/03/2024
+16;115;Patricia Soler;29;Femenino;Madrid;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;18/03/2024
+17;116;Gonzalo Díaz;45;Masculino;Bilbao;1012;Iluminador Líquido;Pele;GlowUp;1950;1;18/03/2024
+18;117;Eva Navarro;21;Femenino;Valencia;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;19/03/2024
+19;118;Rubén Martín;32;Masculino;Sevilla;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;19/03/2024
+20;119;Andrea Rojas;23;Femenino;Madrid;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;2;20/03/2024
+21;120;Jesús Sánchez;37;Masculino;Barcelona;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;20/03/2024
+22;101;Ana García;25;Femenino;Madrid;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;21/03/2024
+23;121;Marta Gil;26;Femenino;Bilbao;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;2;21/03/2024
+24;122;Jorge Morales;39;Masculino;Valencia;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;22/03/2024
+25;123;Paola Ruiz;28;Femenino;Sevilla;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;22/03/2024
+26;124;Antonio Pérez;40;Masculino;Madrid;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;23/03/2024
+27;125;Sandra Otero;30;Femenino;Barcelona;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;23/03/2024
+28;126;Luisa Castro;27;Femenino;Valencia;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;24/03/2024
+29;127;Pedro Vidal;34;Masculino;Sevilla;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;24/03/2024
+30;128;Ana Torres;29;Femenino;Madrid;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;25/03/2024
+31;102;Juan Pérez;30;Masculino;Barcelona;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;25/03/2024
+32;129;Diego Sanz;25;Masculino;Bilbao;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;26/03/2024
+33;130;Natalia Gómez;31;Femenino;Valencia;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;26/03/2024
+34;131;Manuel Flores;38;Masculino;Sevilla;1012;Iluminador Líquido;Pele;GlowUp;1950;1;27/03/2024
+35;132;Alicia Castro;22;Femenino;Madrid;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;3;27/03/2024
+36;133;Sergio Ramos;43;Masculino;Barcelona;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;28/03/2024
+37;134;Lorena Díaz;28;Femenino;Bilbao;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;28/03/2024
+38;135;Ramón Soto;30;Masculino;Valencia;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;29/03/2024
+39;136;Beatriz Ruiz;26;Femenino;Sevilla;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;2;29/03/2024
+40;137;Daniel Morales;35;Masculino;Madrid;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;30/03/2024
+41;138;Claudia Vidal;29;Femenino;Barcelona;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;30/03/2024
+42;139;Jaime Castro;40;Masculino;Bilbao;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;31/03/2024
+43;140;Vanesa Gómez;27;Femenino;Valencia;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;31/03/2024
+44;141;Fabián Navarro;33;Masculino;Sevilla;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;3;1/04/2024
+45;142;Mónica Torres;24;Femenino;Madrid;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;1/04/2024
+46;143;Raúl Soler;31;Masculino;Barcelona;1012;Iluminador Líquido;Pele;GlowUp;1950;1;2/04/2024
+47;144;Silvia Morales;39;Femenino;Bilbao;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;2/04/2024
+48;145;Óscar Díaz;26;Masculino;Valencia;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;3/04/2024
+49;146;Clara Romero;28;Femenino;Sevilla;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;3/04/2024
+50;147;Roberto Vidal;36;Masculino;Madrid;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;4/04/2024
+51;148;Teresa Jiménez;23;Femenino;Barcelona;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;4/04/2024
+52;149;Esteban Soto;41;Masculino;Bilbao;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;2;5/04/2024
+53;150;Lucía Martín;32;Femenino;Valencia;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;5/04/2024
+54;151;José Ruiz;37;Masculino;Sevilla;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;6/04/2024
+55;152;Maribel Sánchez;29;Femenino;Madrid;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;6/04/2024
+56;153;Fernando Gil;25;Masculino;Barcelona;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;7/04/2024
+57;154;Diana Morales;34;Femenino;Bilbao;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;2;7/04/2024
+58;155;Carlos Giraldo;42;Masculino;Valencia;1012;Iluminador Líquido;Pele;GlowUp;1950;1;8/04/2024
+59;156;Rosa Varela;27;Femenino;Sevilla;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;8/04/2024
+60;157;Luis González;30;Masculino;Madrid;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;9/04/2024
+61;158;Mireia Ortiz;26;Femenino;Barcelona;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;9/04/2024
+62;159;Daniel Prieto;33;Masculino;Bilbao;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;10/04/2024
+63;160;Sara Mendoza;24;Femenino;Valencia;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;10/04/2024
+64;161;Héctor Ruiz;35;Masculino;Sevilla;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;11/04/2024
+65;162;Victoria Flores;29;Femenino;Madrid;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;2;11/04/2024
+66;163;Andrés Díaz;40;Masculino;Barcelona;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;12/04/2024
+67;164;Nuria Torres;22;Femenino;Bilbao;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;12/04/2024
+68;165;Iván Soto;28;Masculino;Valencia;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;2;13/04/2024
+69;166;Pilar García;31;Femenino;Sevilla;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;13/04/2024
+70;167;Alejandro Morales;36;Masculino;Madrid;1012;Iluminador Líquido;Pele;GlowUp;1950;1;14/04/2024
+71;101;Ana García;25;Femenino;Madrid;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;14/04/2024
+72;168;Julia Ramos;27;Femenino;Barcelona;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;15/04/2024
+73;169;Alberto Vidal;34;Masculino;Bilbao;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;15/04/2024
+74;170;Rocío Pérez;25;Femenino;Valencia;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;16/04/2024
+75;171;José María García;42;Masculino;Sevilla;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;16/04/2024
+76;172;Nerea Sánchez;23;Femenino;Madrid;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;17/04/2024
+77;173;Ramón López;38;Masculino;Barcelona;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;17/04/2024
+78;174;Laura Martín;30;Femenino;Bilbao;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;18/04/2024
+79;175;Manuel Gil;35;Masculino;Valencia;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;18/04/2024
+80;176;Cristina Ruiz;28;Femenino;Sevilla;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;19/04/2024
+81;177;Jorge Pérez;31;Masculino;Madrid;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;19/04/2024
+82;178;Marina Soto;24;Femenino;Barcelona;1012;Iluminador Líquido;Pele;GlowUp;1950;1;20/04/2024
+83;179;Arturo Vidal;39;Masculino;Bilbao;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;2;20/04/2024
+84;180;Sofía Morales;26;Femenino;Valencia;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;21/04/2024
+85;181;Héctor Gómez;32;Masculino;Sevilla;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;21/04/2024
+86;182;Esther Díaz;29;Femenino;Madrid;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;22/04/2024
+87;183;Óscar Sánchez;37;Masculino;Barcelona;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;22/04/2024
+88;184;Marta Torres;25;Femenino;Bilbao;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;23/04/2024
+89;185;Daniel Ruiz;41;Masculino;Valencia;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;23/04/2024
+90;186;Andrea Soler;22;Femenino;Sevilla;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;24/04/2024
+91;187;Julio Castro;30;Masculino;Madrid;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;24/04/2024
+92;188;Pilar Moreno;34;Femenino;Barcelona;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;25/04/2024
+93;189;Alejandro Santos;27;Masculino;Bilbao;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;25/04/2024
+94;190;Noelia Vidal;36;Femenino;Valencia;1012;Iluminador Líquido;Pele;GlowUp;1950;1;26/04/2024
+95;191;Javier Suárez;29;Masculino;Sevilla;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;26/04/2024
+96;192;Laura Otero;25;Femenino;Madrid;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;27/04/2024
+97;193;Raúl Giraldo;33;Masculino;Barcelona;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;27/04/2024
+98;194;Sara Morales;28;Femenino;Bilbao;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;28/04/2024
+99;195;Pablo Prieto;40;Masculino;Valencia;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;28/04/2024
+100;196;Carla Navarro;21;Femenino;Sevilla;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;29/04/2024
+101;101;Ana García;25;Femenino;Madrid;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;29/04/2024
+102;197;Víctor Sánchez;35;Masculino;Barcelona;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;30/04/2024
+103;198;Elisa Ramos;26;Femenino;Bilbao;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;30/04/2024
+104;199;Fernando Vidal;32;Masculino;Valencia;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;1/05/2024
+105;200;Gabriela Pérez;28;Femenino;Sevilla;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;1/05/2024
+106;102;Juan Pérez;30;Masculino;Barcelona;1012;Iluminador Líquido;Pele;GlowUp;1950;1;2/05/2024
+107;103;María López;28;Femenino;Valencia;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;2/05/2024
+108;104;Carlos Ruiz;35;Masculino;Sevilla;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;3/05/2024
+109;105;Laura Gómez;22;Femenino;Madrid;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;3/05/2024
+110;106;David Jiménez;41;Masculino;Bilbao;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;4/05/2024
+111;107;Sofía Castro;29;Femenino;Valencia;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;4/05/2024
+112;108;Pablo Torres;33;Masculino;Barcelona;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;5/05/2024
+113;109;Elena Blanco;27;Femenino;Sevilla;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;5/05/2024
+114;110;Javier Morales;38;Masculino;Madrid;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;6/05/2024
+115;111;Isabel Rivas;24;Femenino;Bilbao;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;6/05/2024
+116;112;Ricardo Soto;36;Masculino;Valencia;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;7/05/2024
+117;113;Carmen Vidal;31;Femenino;Sevilla;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;7/05/2024
+118;114;Felipe Castro;26;Masculino;Barcelona;1012;Iluminador Líquido;Pele;GlowUp;1950;1;8/05/2024
+119;115;Patricia Soler;29;Femenino;Madrid;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;8/05/2024
+120;116;Gonzalo Díaz;45;Masculino;Bilbao;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;9/05/2024
+121;117;Eva Navarro;21;Femenino;Valencia;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;9/05/2024
+122;118;Rubén Martín;32;Masculino;Sevilla;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;10/05/2024
+123;119;Andrea Rojas;23;Femenino;Madrid;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;10/05/2024
+124;120;Jesús Sánchez;37;Masculino;Barcelona;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;11/05/2024
+125;121;Marta Gil;26;Femenino;Bilbao;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;11/05/2024
+126;122;Jorge Morales;39;Masculino;Valencia;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;12/05/2024
+127;123;Paola Ruiz;28;Femenino;Sevilla;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;12/05/2024
+128;124;Antonio Pérez;40;Masculino;Madrid;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;13/05/2024
+129;125;Sandra Otero;30;Femenino;Barcelona;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;13/05/2024
+130;126;Luisa Castro;27;Femenino;Valencia;1012;Iluminador Líquido;Pele;GlowUp;1950;1;14/05/2024
+131;127;Pedro Vidal;34;Masculino;Sevilla;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;14/05/2024
+132;128;Ana Torres;29;Femenino;Madrid;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;15/05/2024
+133;129;Diego Sanz;25;Masculino;Bilbao;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;15/05/2024
+134;130;Natalia Gómez;31;Femenino;Valencia;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;16/05/2024
+135;131;Manuel Flores;38;Masculino;Sevilla;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;16/05/2024
+136;132;Alicia Castro;22;Femenino;Madrid;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;17/05/2024
+137;133;Sergio Ramos;43;Masculino;Barcelona;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;17/05/2024
+138;134;Lorena Díaz;28;Femenino;Bilbao;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;18/05/2024
+139;135;Ramón Soto;30;Masculino;Valencia;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;18/05/2024
+140;136;Beatriz Ruiz;26;Femenino;Sevilla;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;19/05/2024
+141;137;Daniel Morales;35;Masculino;Madrid;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;19/05/2024
+142;138;Claudia Vidal;29;Femenino;Barcelona;1012;Iluminador Líquido;Pele;GlowUp;1950;1;20/05/2024
+143;139;Jaime Castro;40;Masculino;Bilbao;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;20/05/2024
+144;140;Vanesa Gómez;27;Femenino;Valencia;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;21/05/2024
+145;141;Fabián Navarro;33;Masculino;Sevilla;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;21/05/2024
+146;142;Mónica Torres;24;Femenino;Madrid;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;22/05/2024
+147;143;Raúl Soler;31;Masculino;Barcelona;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;22/05/2024
+148;144;Silvia Morales;39;Femenino;Bilbao;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;23/05/2024
+149;145;Óscar Díaz;26;Masculino;Valencia;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;23/05/2024
+150;146;Clara Romero;28;Femenino;Sevilla;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;24/05/2024
+151;147;Roberto Vidal;36;Masculino;Madrid;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;24/05/2024
+152;148;Teresa Jiménez;23;Femenino;Barcelona;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;25/05/2024
+153;149;Esteban Soto;41;Masculino;Bilbao;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;25/05/2024
+154;150;Lucía Martín;32;Femenino;Valencia;1012;Iluminador Líquido;Pele;GlowUp;1950;1;26/05/2024
+155;151;José Ruiz;37;Masculino;Sevilla;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;26/05/2024
+156;152;Maribel Sánchez;29;Femenino;Madrid;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;27/05/2024
+157;153;Fernando Gil;25;Masculino;Barcelona;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;27/05/2024
+158;154;Diana Morales;34;Femenino;Bilbao;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;28/05/2024
+159;155;Carlos Giraldo;42;Masculino;Valencia;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;28/05/2024
+160;156;Rosa Varela;27;Femenino;Sevilla;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;29/05/2024
+161;157;Luis González;30;Masculino;Madrid;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;29/05/2024
+162;158;Mireia Ortiz;26;Femenino;Barcelona;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;30/05/2024
+163;159;Daniel Prieto;33;Masculino;Bilbao;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;30/05/2024
+164;160;Sara Mendoza;24;Femenino;Valencia;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;31/05/2024
+165;161;Héctor Ruiz;35;Masculino;Sevilla;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;31/05/2024
+166;162;Victoria Flores;29;Femenino;Madrid;1012;Iluminador Líquido;Pele;GlowUp;1950;1;1/06/2024
+167;163;Andrés Díaz;40;Masculino;Barcelona;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;1/06/2024
+168;164;Nuria Torres;22;Femenino;Bilbao;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;2/06/2024
+169;165;Iván Soto;28;Masculino;Valencia;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;2/06/2024
+170;166;Pilar García;31;Femenino;Sevilla;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;3/06/2024
+171;167;Alejandro Morales;36;Masculino;Madrid;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;3/06/2024
+172;168;Julia Ramos;27;Femenino;Barcelona;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;4/06/2024
+173;169;Alberto Vidal;34;Masculino;Bilbao;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;4/06/2024
+174;170;Rocío Pérez;25;Femenino;Valencia;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;5/06/2024
+175;171;José María García;42;Masculino;Sevilla;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;5/06/2024
+176;172;Nerea Sánchez;23;Femenino;Madrid;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;6/06/2024
+177;173;Ramón López;38;Masculino;Barcelona;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;6/06/2024
+178;174;Laura Martín;30;Femenino;Bilbao;1012;Iluminador Líquido;Pele;GlowUp;1950;1;7/06/2024
+179;175;Manuel Gil;35;Masculino;Valencia;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;7/06/2024
+180;176;Cristina Ruiz;28;Femenino;Sevilla;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;8/06/2024
+181;177;Jorge Pérez;31;Masculino;Madrid;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;8/06/2024
+182;178;Marina Soto;24;Femenino;Barcelona;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;9/06/2024
+183;179;Arturo Vidal;39;Masculino;Bilbao;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;9/06/2024
+184;180;Sofía Morales;26;Femenino;Valencia;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;10/06/2024
+185;181;Héctor Gómez;32;Masculino;Sevilla;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;10/06/2024
+186;182;Esther Díaz;29;Femenino;Madrid;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;11/06/2024
+187;183;Óscar Sánchez;37;Masculino;Barcelona;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;11/06/2024
+188;184;Marta Torres;25;Femenino;Bilbao;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;12/06/2024
+189;185;Daniel Ruiz;41;Masculino;Valencia;1011;Corrector de Ojeras;Pele;RadiantSkin;1400;1;12/06/2024
+190;186;Andrea Soler;22;Femenino;Sevilla;1012;Iluminador Líquido;Pele;GlowUp;1950;1;13/06/2024
+191;187;Julio Castro;30;Masculino;Madrid;1001;Labial Mate Rosado;Lábios;GlamourGlow;1250;1;13/06/2024
+192;188;Pilar Moreno;34;Femenino;Barcelona;1002;Paleta de Sombras Neutras;Olhos;BellaBeauty;2500;1;14/06/2024
+193;189;Alejandro Santos;27;Masculino;Bilbao;1003;Base Líquida HD;Pele;RadiantSkin;1875;1;14/06/2024
+194;190;Noelia Vidal;36;Femenino;Valencia;1004;Kit de Brochas Esenciales;Acessórios;MakeTools;3000;1;15/06/2024
+195;191;Javier Suárez;29;Masculino;Sevilla;1005;Delineador de Ojos Negro;Olhos;BellaBeauty;899;1;15/06/2024
+196;192;Laura Otero;25;Femenino;Madrid;1006;Máscara de Cílios Volumen;Olhos;StarLook;1550;1;16/06/2024
+197;193;Raúl Giraldo;33;Masculino;Barcelona;1007;Gloss Labial Transparente;Lábios;ShineLips;1000;1;16/06/2024
+198;194;Sara Morales;28;Femenino;Bilbao;1008;Polvo Compacto Fijador;Pele;RadiantSkin;2000;1;17/06/2024
+199;195;Pablo Prieto;40;Masculino;Valencia;1009;Crema Hidratante con Color;Pele;GlowUp;2200;1;17/06/2024
+200;196;Carla Navarro;21;Femenino;Sevilla;1010;Sombra de Ojos Individual;Olhos;BellaBeauty;650;1;18/06/2024
